@@ -1,0 +1,7 @@
+# Eclipse bin directory
+bin/
+
+# Temporary / OS files
+.DS_Store
+Thumbs.db
+*.tmp
