@@ -5,3 +5,7 @@ bin/
 .DS_Store
 Thumbs.db
 *.tmp
+
+# Local assignment answers (not for remote repo)
+Desarrollo_Actividad.md
+
